@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture"            "models/player/darnias/hunk/helmet"
+	"$bumpmap"                "models/player/darnias/hunk/helmet_n"
+	"$envmap"                 "env_cubemap"
+    $selfillum 1
+    $selfillummask "models/player/darnias/hunk/helmet"
+	$selfillumtint "[0.2 0.01 0.01]"
+	"$normalmapalphaenvmapmask"       "1"	
+	"$envmaptint" "[0.15 0.1 0.1]"
+}
