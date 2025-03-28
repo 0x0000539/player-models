@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+//Basic
+	"$BaseTexture" 				 "models\player\custom_player\caleon1\ballas1\out"
+	"$BumpMap" 					 "models\player\custom_player\caleon1\ballas1\flat_n"
+
+	$alpha 0.1
+
+}
