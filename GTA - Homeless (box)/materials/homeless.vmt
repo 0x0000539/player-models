@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/madebyruzh/homeless/homeless"
+	"$nocull" 1
+}
