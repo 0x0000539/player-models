@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/natalie/tr_natary_hair"
+	"$bumpmap"		"models/player/kuristaja/cso2/natalie/tr_natary_hair_normal"
+
+	"$phong"			1
+	"$phongboost"		1.0
+	"$phongexponent"		25
+	"$phongtint"   		"[0.15 0.15 0.15]"
+	//"$phongexponenttexture" 	"models/player/kuristaja/cso2/natalie/tr_natary_multi"
+
+	"$rimlight"		1
+	"$rimlightexponent"		18
+	"$rimlightboost"		0.6
+	"$rimmask"		0
+
+	$alphatest 1
+}

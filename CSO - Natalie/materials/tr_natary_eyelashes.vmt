@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/cso2/natalie/tr_natary_eyel"
+
+	$translucent 1
+}
