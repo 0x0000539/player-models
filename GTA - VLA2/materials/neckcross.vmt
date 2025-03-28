@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\player\custom_player\eminem\gta_sa\vla2/neckcross"
+	"$translucent"	"1"
+}

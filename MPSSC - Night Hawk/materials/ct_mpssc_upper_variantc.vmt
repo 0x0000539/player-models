@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/player/ct_swat/ct_swat_shared.vmt"
+	"insert"
+	{	
+		$baseTexture "models/player/ct_mpssc/ct_mpssc_upper_variantc"
+		$bumpMap "models/player/ct_mpssc/ct_mpssc_upper_normal"
+		$basemapluminancephongmask 1
+		$nocull 1
+		$phongexponenttexture "models/player/ct_swat/ct_swat_upperbody_exponent"
+		$rimmask 1
+		}
+}
